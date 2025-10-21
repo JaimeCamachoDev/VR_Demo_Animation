@@ -28,6 +28,13 @@
       "dependencies": {},
       "url": "https://registry.npmjs.org"
     },
+    "com.jaimecamacho.vat": {
+      "version": "0.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://registry.npmjs.org"
+    },
     "com.meta.xr.mrutilitykit": {
       "version": "78.0.0",
       "depth": 1,
