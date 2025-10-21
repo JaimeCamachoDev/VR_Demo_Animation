@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "com.jaimecamacho.discovernotes": "1.2.0",
+    "com.jaimecamacho.unityfolders": "1.2.4",
+    "com.jaimecamacho.unitypreset": "1.0.6",
     "com.meta.xr.sdk.all": "78.0.0",
     "com.unity.asset-manager-for-unity": "1.7.0",
     "com.unity.feature.2d": "2.0.1",
