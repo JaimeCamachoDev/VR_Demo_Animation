@@ -29,11 +29,7 @@
       "url": "https://registry.npmjs.org"
     },
     "com.jaimecamacho.vat": {
-<<<<<<< Updated upstream
-      "version": "1.0.1",
-=======
-      "version": "1.0.3",
->>>>>>> Stashed changes
+      "version": "1.0.5",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -222,7 +218,7 @@
       }
     },
     "com.unity.formats.alembic": {
-      "version": "2.4.1",
+      "version": "2.4.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {
