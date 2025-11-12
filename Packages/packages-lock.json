@@ -29,7 +29,11 @@
       "url": "https://registry.npmjs.org"
     },
     "com.jaimecamacho.vat": {
+<<<<<<< Updated upstream
       "version": "1.0.1",
+=======
+      "version": "1.0.3",
+>>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -216,6 +220,17 @@
         "com.unity.cinemachine": "3.1.4",
         "com.unity.formats.fbx": "5.1.5"
       }
+    },
+    "com.unity.formats.alembic": {
+      "version": "2.4.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.timeline": "1.8.7",
+        "com.unity.modules.cloth": "1.0.0",
+        "com.unity.modules.unityanalytics": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.formats.fbx": {
       "version": "5.1.5",
@@ -479,6 +494,14 @@
       "source": "builtin",
       "dependencies": {}
     },
+    "com.unity.modules.cloth": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+      }
+    },
     "com.unity.modules.director": {
       "version": "1.0.0",
       "depth": 0,
@@ -559,6 +582,15 @@
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0",
         "com.unity.modules.hierarchycore": "1.0.0"
+      }
+    },
+    "com.unity.modules.unityanalytics": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
       }
     },
     "com.unity.modules.unitywebrequest": {
