@@ -733,7 +733,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &702287076
 Light:
   m_ObjectHideFlags: 0
@@ -1338,6 +1338,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 698192359962737230, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1142070440680864927, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1377,6 +1381,46 @@ PrefabInstance:
     - target: {fileID: 1142070440680864927, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1822751721682154960, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3297099157108417897, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3589707336673076914, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4056609512599093253, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5147056798539131891, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5607746905246292649, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5857768082691812107, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7514810566587187659, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7784239791508887598, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8542054447843488886, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9114862577272530394, guid: db3d34139bd41fb45b5c63ef77ebda91, type: 3}
       propertyPath: m_Name
